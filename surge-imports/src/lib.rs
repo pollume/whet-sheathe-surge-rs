@@ -65,7 +65,6 @@ pub use getset::*;
 pub use indoc::*;
 pub use lazy_static::*;
 pub use libc;
-pub use lockfree::map::Map as LFMap;
 pub use ndarray;
 pub use ndarray::{Axis,array};
 pub use num::*;
